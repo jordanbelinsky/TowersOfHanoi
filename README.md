@@ -9,4 +9,5 @@ Recursive Towers of Hanoi is a bit more complex, but in favour of efficiency. Th
 
 ## History of Towers of Hanoi
 If you would like to learn about the history and origin of the Towers of Hanoi mathematical puzzle, you can visit the link below.
+<br>
 Link: https://en.wikipedia.org/wiki/Tower_of_Hanoi
