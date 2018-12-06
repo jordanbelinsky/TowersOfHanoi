@@ -1,8 +1,7 @@
-###################################
-# Name: Jordan Belinsky           #
-# Date: October 22nd, 2018        #
-# File: recursiveStack.py         #
-###################################
+"""
+File Name: recursive_stack.py
+Description: recursive implementation of the stack class to be used in the main file
+"""
 
 ###############
 # Stack Class #
