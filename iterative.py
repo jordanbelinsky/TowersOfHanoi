@@ -22,7 +22,7 @@ print()
 #############
 # Variables #
 #############
-from iterativeStack import Stack
+from iterative_stack import Stack
 while True:
     try:
         user_input = int(input("How many discs would you like to sort? "))                     

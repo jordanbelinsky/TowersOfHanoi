@@ -22,7 +22,7 @@ print()
 ########################
 # Variables and Import #
 ########################
-from recursiveStack import Stack    # import stack class
+from recursive_stack import Stack    # import stack class
 towers = [Stack("Tower 1"), Stack("Tower 2"), Stack("Tower 3")]
 moves = 0     
 
