@@ -1,8 +1,7 @@
-###################################
-# Name: Jordan Belinsky           #
-# Date: September 14th, 2018      #
-# File: recursive.py              #
-###################################
+"""
+File Name: recursive.py
+Description: recursive implementation of towers of hanoi
+"""
 
 #############
 # Game Logo #

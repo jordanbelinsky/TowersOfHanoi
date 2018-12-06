@@ -1,8 +1,7 @@
-###################################
-# Name: Jordan Belinsky           #
-# Date: September 14th, 2018      #
-# File: iterative.py              #
-###################################
+"""
+File Name: iterative.py
+Description: iterative implementation of towers of hanoi
+"""
 
 #############
 # Game Logo #
